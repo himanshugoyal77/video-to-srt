@@ -5,8 +5,10 @@ def printArray(array):
     for line in array:
         print(line)
 
-def translateString(string,from_language,to_langueage):
-    translation = ts.google(string,from_language=from_language,to_language=to_langueage)
+def translateString(string, from_language, to_language):
+    translation = ts.translate_text(query_text=string, from_language=from_language, to_language=to_language,
+                                    translator='google'
+                                    )
     return translation
 
 def translateListToList(from_list,from_lang,to_lang):

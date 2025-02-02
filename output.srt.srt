@@ -1,0 +1,60 @@
+1
+00:00:03,802 --> 00:00:11,820
+My name is jersey london i am an assistant professor at you in the department of biomedical engineering and biostatistics and bioinformatics. 
+
+2
+00:00:12,291 --> 00:00:15,844
+One of the biggest issues with healthcare is that people need to come into a clin. 
+
+3
+00:00:16,484 --> 00:00:18,506
+And that's the big burden for a lot of people. 
+
+4
+00:00:19,120 --> 00:00:24,163
+So it's periodic but we know that health is continuous. 
+
+5
+00:00:25,900 --> 00:00:37,440
+Focusing is this revolution in the use of data and how data can be employed for making protection for having a better understanding of complex systems like human health. 
+
+6
+00:00:37,906 --> 00:00:52,864
+Our goal is it available usually this is from wherever or mobile devices apple watches pictures garments this what settings and we bring that data together in aggregate to give an overall picture of somebody's help. 
+
+7
+00:00:53,899 --> 00:01:00,767
+We aim to prevent events from happening because an event usually means that something was happening suddenly. 
+
+8
+00:01:05,330 --> 00:01:19,388
+And what we want to do is have that really monitoring in place so that before and event happens there can be an alert that something is going on and in an ideal world find people in a state where we can reverse damage that's already happened. 
+
+9
+00:01:20,204 --> 00:01:23,520
+You've been working with respect. 
+
+10
+00:01:23,982 --> 00:01:26,506
+Rhinovirus covid-19. 
+
+11
+00:01:27,127 --> 00:01:38,161
+Just taking pride diabetes as an example of third of the us population has created is that is a huge number and others 90% don't know that they have provided it. 
+
+12
+00:01:38,633 --> 00:01:45,517
+And hope is that this work is really going to turn the dial and that to enable us not have this huge burdens. 
+
+13
+00:01:46,306 --> 00:01:54,894
+One of the things that we think about when we say taking help out side of the chronicle setting is to bring healthcare to people who otherwise might not have access. 
+
+14
+00:01:55,553 --> 00:01:57,983
+Do you like people know what is devices are capable. 
+
+15
+00:01:58,601 --> 00:02:01,805
+And how people feel empowered to monitor their own house. 
+
